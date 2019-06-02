@@ -6,4 +6,4 @@ def index_view(request):
     return HttpResponse('hello git!')
 
 
-print "添加"
+print ("githab上添加的")
