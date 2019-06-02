@@ -9,3 +9,5 @@ def index_view(request):
 print("githab上添加的")
 
 print("本地库添加的")
+
+print("提交到dev分支")
